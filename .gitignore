@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+.venv/bin
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+*.egg-info/
+.env
+venv/
+.venv
+.idea/
+.vscode/
+# Selenium drivers
+chromedriver
+
