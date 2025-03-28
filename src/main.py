@@ -1,5 +1,5 @@
 from web_scraper import WebScraper
-from google_boot import GoogleBot
+from google_bot import GoogleBot
 
 def main():
 	#Scraping data

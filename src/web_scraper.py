@@ -2,6 +2,7 @@ import dotenv, os
 import requests, json
 from bs4 import BeautifulSoup
 import re
+dotenv.load_dotenv()
 
 class WebScraper:
 	"""Scrapes static web and orgranises scraped data for further parsing"""
